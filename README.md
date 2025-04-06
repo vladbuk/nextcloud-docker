@@ -16,7 +16,7 @@ This repository provides a quick, production-ready way to run [Nextcloud](https:
 ### 1. Clone this repository
 
 ```bash
-git clone https://github.com/your-user/nextcloud-docker.git
+git clone https://github.com/vladbuk/nextcloud-docker.git
 cd nextcloud-docker
 ```
 
